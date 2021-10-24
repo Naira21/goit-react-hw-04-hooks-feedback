@@ -1,0 +1,29 @@
+.statisticsList {
+  list-style: circle;
+  font-weight: 600;
+}
+
+.goodMark {
+  color: green;
+}
+
+.neutralMark {
+  color: orange;
+}
+
+.badMark {
+  color: red;
+}
+
+.allMarks {
+  text-decoration-line: underline;
+  font-size: large;
+  list-style: none;
+  padding-top: 10px;
+  font-weight: 800;
+}
+
+.positiveMarks {
+  font-size: large;
+  list-style: none;
+}

@@ -1,0 +1,10 @@
+.optionBtn {
+  margin-right: 15px;
+  font-size: larger;
+}
+
+.optionBtn:hover {
+  background-color: darksalmon;
+  color: darkred;
+  font-weight: 600;
+}
